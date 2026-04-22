@@ -1,6 +1,6 @@
 # pythoncolabevangelionplusazeirbaidjanplus
 
-1- Преимущества Google Colab:
+1. Преимущества Google Colab:
   Не требует установки ПО — работает в браузере
   Бесплатный доступ к GPU/TPU для сложных вычислений
   Автосохранение в Google Drive + совместная работа
